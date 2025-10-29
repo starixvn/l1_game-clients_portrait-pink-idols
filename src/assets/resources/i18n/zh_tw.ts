@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "總獎金",
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。",
         "Close": "關閉"
+    },
+    "Blackpink": {
+        "game_name": "粉色偶像",
+        "game_icon_name": "粉色偶像"
     }
 };
 

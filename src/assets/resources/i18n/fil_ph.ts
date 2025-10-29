@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Nagkaroon ng hindi inaasahang error. Paki-subukan ulit mamaya.",
         "Close": "Isara"
+    },
+    "Blackpink": {
+        "game_name": "Pink Idols",
+        "game_icon_name": "Pink Idols"
     }
 };
 

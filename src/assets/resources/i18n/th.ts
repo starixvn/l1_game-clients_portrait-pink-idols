@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง",
         "Close": "ปิด"
+    },
+    "Blackpink": {
+        "game_name": "ไอดอลสีชมพู",
+        "game_icon_name": "ไอดอลสีชมพู"
     }
 };
 

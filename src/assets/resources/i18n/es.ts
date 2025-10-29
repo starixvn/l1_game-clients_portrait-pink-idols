@@ -438,6 +438,10 @@ export const languages = {
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde.",
         "Close": "Cerrar"
+    },
+    "Blackpink": {
+        "game_name": "Pink Idols",
+        "game_icon_name": "Pink Idols"
     }
 };
 

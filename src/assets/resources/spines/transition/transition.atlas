@@ -1,195 +1,181 @@
 
-transition.webp
-size: 1370,306
+transition.png
+size: 1762,142
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-effect-win/win00
+glitch/plasma-fx0
+  rotate: false
+  xy: 2, 114
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
+  index: -1
+glitch/plasma-fx1
+  rotate: false
+  xy: 2, 86
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
+  index: -1
+glitch/plasma-fx10
   rotate: false
   xy: 2, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win01
+glitch/plasma-fx11
   rotate: false
-  xy: 2, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 354, 30
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win02
+glitch/plasma-fx12
   rotate: false
-  xy: 154, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 706, 58
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win03
+glitch/plasma-fx13
   rotate: false
-  xy: 154, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1058, 86
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win04
+glitch/plasma-fx14
   rotate: false
-  xy: 154, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1410, 114
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win05
+glitch/plasma-fx15
   rotate: false
-  xy: 306, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 354, 2
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win06
+glitch/plasma-fx16
   rotate: false
-  xy: 306, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 706, 30
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win07
+glitch/plasma-fx17
   rotate: false
-  xy: 306, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1058, 58
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win08
+glitch/plasma-fx18
   rotate: false
-  xy: 458, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1410, 86
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win09
+glitch/plasma-fx19
   rotate: false
-  xy: 458, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 706, 2
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win10
+glitch/plasma-fx2
   rotate: false
-  xy: 458, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 354, 114
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win11
+glitch/plasma-fx20
   rotate: false
-  xy: 610, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1058, 30
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win12
+glitch/plasma-fx21
   rotate: false
-  xy: 610, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1410, 58
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win13
+glitch/plasma-fx22
   rotate: false
-  xy: 610, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1058, 2
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win14
+glitch/plasma-fx23
   rotate: false
-  xy: 610, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1410, 30
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win15
+glitch/plasma-fx24
   rotate: false
-  xy: 762, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1410, 2
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win16
+glitch/plasma-fx3
   rotate: false
-  xy: 762, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 58
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win17
+glitch/plasma-fx4
   rotate: false
-  xy: 762, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 354, 86
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win18
+glitch/plasma-fx5
   rotate: false
-  xy: 914, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 706, 114
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win19
+glitch/plasma-fx6
   rotate: false
-  xy: 914, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 2, 30
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win20
+glitch/plasma-fx7
   rotate: false
-  xy: 914, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 354, 58
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win21
+glitch/plasma-fx8
   rotate: false
-  xy: 1066, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 706, 86
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1
-effect-win/win22
+glitch/plasma-fx9
   rotate: false
-  xy: 1066, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
-  index: -1
-effect-win/win23
-  rotate: false
-  xy: 1066, 2
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
-  index: -1
-effect-win/win24
-  rotate: false
-  xy: 1218, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
-  index: -1
-effect-win/win26
-  rotate: false
-  xy: 2, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
-  index: -1
-effect-win/win25
-  rotate: false
-  xy: 2, 154
-  size: 146, 146
-  orig: 146, 146
-  offset: 2, 2
+  xy: 1058, 114
+  size: 350, 26
+  orig: 350, 26
+  offset: 0, 0
   index: -1

@@ -3111,7 +3111,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": -14,
+      "y": 136.05,
       "z": 0
     },
     "_lrot": {
@@ -3123,8 +3123,8 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
+      "x": 0.8,
+      "y": 0.8,
       "z": 1
     },
     "_mobility": 0,
@@ -3215,7 +3215,7 @@
     "node": {
       "__id__": 130
     },
-    "_enabled": true,
+    "_enabled": false,
     "__prefab": {
       "__id__": 136
     },
@@ -3255,7 +3255,7 @@
       "__uuid__": "00b25836-3e4a-4344-a13b-a82b53cf51aa",
       "__expectedType__": "sp.SkeletonData"
     },
-    "defaultSkin": "",
+    "defaultSkin": "default",
     "defaultAnimation": "",
     "_premultipliedAlpha": false,
     "_timeScale": 1,

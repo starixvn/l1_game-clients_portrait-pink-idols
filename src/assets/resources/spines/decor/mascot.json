@@ -1,12 +1,12 @@
 {
-"skeleton": { "hash": "Ya9o7sH9JnDccY+HnWURuzBgdMw", "spine": "3.8.99" },
+"skeleton": { "hash": "dkXcdJIOkHh60qHVyUk9L6vjcK4", "spine": "3.8.99" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "4-beautiful-girls", "parent": "root" },
 	{ "name": "4-beautiful-girls2", "parent": "root" }
 ],
 "slots": [
-	{ "name": "4-beautiful-girls2", "bone": "4-beautiful-girls2" },
+	{ "name": "4-beautiful-girls2", "bone": "4-beautiful-girls2", "blend": "multiply" },
 	{ "name": "4-beautiful-girls", "bone": "4-beautiful-girls", "blend": "additive" }
 ],
 "skins": [

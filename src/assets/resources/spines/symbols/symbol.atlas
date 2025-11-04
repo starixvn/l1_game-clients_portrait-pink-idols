@@ -1,0 +1,202 @@
+
+symbol.webp
+size: 543,847
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+character
+  rotate: false
+  xy: 149, 445
+  size: 137, 139
+  orig: 150, 150
+  offset: 7, 4
+  index: -1
+character-s5
+  rotate: false
+  xy: 276, 230
+  size: 126, 135
+  orig: 126, 136
+  offset: 0, 0
+  index: -1
+flare
+  rotate: false
+  xy: 476, 556
+  size: 46, 46
+  orig: 52, 52
+  offset: 2, 3
+  index: -1
+frame
+  rotate: false
+  xy: 335, 582
+  size: 137, 142
+  orig: 150, 150
+  offset: 6, 2
+  index: -1
+frame-s10
+  rotate: false
+  xy: 2, 375
+  size: 136, 144
+  orig: 150, 150
+  offset: 7, 0
+  index: -1
+frame-s7
+  rotate: false
+  xy: 187, 588
+  size: 144, 148
+  orig: 150, 150
+  offset: 4, 2
+  index: -1
+frame-s8
+  rotate: false
+  xy: 2, 523
+  size: 143, 143
+  orig: 150, 150
+  offset: 4, 3
+  index: -1
+ice_explode_particle_loop_00
+  rotate: false
+  xy: 134, 134
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_02
+  rotate: false
+  xy: 2, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_04
+  rotate: false
+  xy: 406, 142
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_06
+  rotate: false
+  xy: 262, 102
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_08
+  rotate: false
+  xy: 130, 6
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+ice_explode_particle_loop_10
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 187, 789
+  size: 162, 56
+  orig: 274, 126
+  offset: 44, 25
+  index: -1
+light-frame
+  rotate: false
+  xy: 390, 51
+  size: 122, 87
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+lightstick
+  rotate: false
+  xy: 429, 270
+  size: 109, 115
+  orig: 124, 128
+  offset: 11, 1
+  index: -1
+logo-pink
+  rotate: false
+  xy: 2, 258
+  size: 128, 113
+  orig: 137, 147
+  offset: 2, 19
+  index: -1
+singer
+  rotate: false
+  xy: 353, 728
+  size: 156, 117
+  orig: 159, 118
+  offset: 3, 0
+  index: -1
+stage
+  rotate: false
+  xy: 2, 670
+  size: 181, 175
+  orig: 195, 183
+  offset: 4, 6
+  index: -1
+stage-front
+  rotate: false
+  xy: 290, 369
+  size: 135, 86
+  orig: 135, 86
+  offset: 0, 0
+  index: -1
+symbol-0
+  rotate: false
+  xy: 476, 606
+  size: 65, 118
+  orig: 65, 118
+  offset: 0, 0
+  index: -1
+symbol-1
+  rotate: false
+  xy: 142, 262
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+symbol-2
+  rotate: false
+  xy: 429, 389
+  size: 110, 115
+  orig: 110, 115
+  offset: 0, 0
+  index: -1
+symbol-3
+  rotate: false
+  xy: 290, 459
+  size: 135, 119
+  orig: 135, 119
+  offset: 0, 0
+  index: -1
+text-bonus
+  rotate: false
+  xy: 187, 740
+  size: 149, 45
+  orig: 149, 45
+  offset: 0, 0
+  index: -1
+text-free
+  rotate: false
+  xy: 429, 508
+  size: 111, 44
+  orig: 117, 50
+  offset: 3, 4
+  index: -1
+text-spin
+  rotate: false
+  xy: 258, 50
+  size: 117, 48
+  orig: 117, 50
+  offset: 0, 2
+  index: -1
+text-wild
+  rotate: false
+  xy: 142, 396
+  size: 131, 45
+  orig: 131, 45
+  offset: 0, 0
+  index: -1
